@@ -1,0 +1,8 @@
+{
+  "name": "Remix LunaTrace (lunar landing site navigator)",
+  "description": "LunaTrace - Interactive NASA Space Apps Challenge tool for evaluating lunar landing sites, solar illumination, direct-to-Earth communication windows, and South Pole terrain topography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
